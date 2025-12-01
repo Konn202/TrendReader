@@ -79,8 +79,8 @@ weight:
 platforms:
   
   # === 综合新闻媒体类 ===
-  - id: "toutiao"
-    name: "今日头条"
+  # - id: "toutiao"
+  #  name: "今日头条"
   - id: "baidu"
     name: "百度热搜"
   - id: "thepaper"
@@ -156,7 +156,7 @@ platforms:
   - id: "chongbuluo"
     name: "虫部落"
 
-   NewsNow的信息源在11月20日更新：
+  # NewsNow的信息源在11月20日更新：
 
     id: "tencent-hot"
     name: "腾讯新闻 综合早报"
